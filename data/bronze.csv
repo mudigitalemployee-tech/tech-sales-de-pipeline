@@ -1,0 +1,101 @@
+order_id,customer_name,customer_email,phone_number,product_name,category,quantity,unit_price,discount_pct,total_amount,status,order_date,rating,region
+1,Uma Lewis,uma.lewis@devhub.net,+16668366722,Smartphone X12,Laptops,5,649.99,4.2,3113.45,COMPLETED,2024-11-23,2.7,North
+2,Carol White,carol.white@outlook.com,+18224305450,4K Monitor,Monitors,9,1524.95,16.8,11418.83,PROCESSING,2024-03-05,2.1,North
+3,Yara King,yara.king@gmail.com,+13631775357,External HDD,Audio,7,883.61,4.7,5894.56,CANCELLED,2027-06-15,2.4,East
+4,Tina Clark,tina.clark@devhub.net,+17554158401,Mechanical Keyboard,Laptops,8,1363.76,29.2,7724.34,REFUNDED,2023-03-22,3.5,East
+5,,sam.robinson@gmail.com,+13632629719,4K Monitor,Phones,1,1670.1,23.2,1282.64,COMPLETED,2023-08-27,2.8,East
+6,Frank Lee,frank.lee@outlook.com,+18589080583,USB-C Hub,Storage,4,1691.93,21.1,5339.73,COMPLETED,2024-09-15,2.0,West
+7,Mia Thomas,mia.thomas@gmail.com,+15457645390,Mechanical Keyboard,Tablets,-4,1727.3,25.3,5161.17,COMPLETED,2023-08-23,2.6,North
+8,Grace Kim,grace.kim@yahoo.com,+12599707677,Graphics Card RTX,Components,6,570.94,15.0,2911.79,REFUNDED,2023-05-27,4.0,Central
+9,Isabella Davis,isabella.davis@devhub.net,+14119634399,Bluetooth Speaker,Components,7,2249.67,12.0,13857.97,PENDING,2023-05-22,4.0,North
+10,Eva Martinez,not-an-email,+17374782700,Tablet Pro,Audio,7,1511.2,11.5,9361.88,PROCESSING,2024-04-24,3.2,North
+11,Victor Hall,victor.hall@yahoo.com,+13867302554,Bluetooth Speaker,Phones,9,1889.65,23.1,13078.27,CANCELLED,2023-04-25,2.8,East
+12,Quinn Anderson,quinn.anderson@devhub.net,+14615507143,External HDD,Audio,9,2285.94,26.1,15203.79,CANCELLED,2024-10-16,7.8,South
+13,Rachel Thompson,rachel.thompson@yahoo.com,+13028439863,External HDD,Tablets,1,1517.41,14.7,1294.35,COMPLETED,2024-01-07,2.0,Central
+14,Carol White,carol.white@techcorp.io,+12709214891,Smartphone X12,Wearables,2,2446.06,16.0,4109.38,PENDING,2023-05-12,3.1,Central
+15,Nathan Harris,nathan.harris@devhub.net,+13939118223,4K Monitor,Tablets,4,N/A,12.0,6324.45,CANCELLED,2024-03-24,2.0,North
+16,Karen Moore,karen.moore@gmail.com,+12983297492,Laptop Pro 15,Components,9,613.78,6.6,5159.43,COMPLETED,2024-12-25,4.6,East
+17,Carol White,carol.white@devhub.net,+14030106617,Gaming Mouse,Monitors,5,1689.0,6.4,7904.52,PENDING,2024-08-07,4.1,West
+18,,grace.kim@gmail.com,+12260329455,Smartphone X12,Phones,7,918.03,12.3,5635.79,COMPLETED,2024-11-20,3.9,North
+19,Henry Wilson,henry.wilson@outlook.com,+12323775634,4K Monitor,Monitors,9,1149.1,12.7,9028.48,CANCELLED,2024-04-18,4.2,Central
+20,David Brown,david.brown@techcorp.io,+14085812759,Laptop Pro 15,Tablets,1,2424.04,27.8,1750.16,,2023-06-20,1.9,West
+21,Clara Baker,clara.baker@techcorp.io,+19286805016,Laptop Pro 15,Audio,7,55.28,11.7,341.69,REFUNDED,2023-10-20,3.9,Central
+22,Victor Hall,victor.hall@devhub.net,+16556778059,Bluetooth Speaker,Wearables,3,515.25,6.5,9999.99,COMPLETED,2024-08-16,2.3,North
+23,Sam Robinson,sam.robinson@gmail.com,+14555656321,SSD 1TB,Tablets,9,435.71,28.8,2792.03,COMPLETED,2023-07-10,3.7,South
+24,Mia Thomas,mia.thomas@devhub.net,+18722598451,Smartphone X12,Components,4,1468.35,1.2,5802.92,COMPLETED,2024-03-05,2.3,East
+25,Grace Kim,not-an-email,+16018948187,Tablet Pro,Storage,4,700.76,3.9,2693.72,CANCELLED,2024-04-13,1.0,Central
+26,Sam Robinson,sam.robinson@outlook.com,+13587106770,Smartphone X12,Phones,9,572.23,8.0,4738.06,CANCELLED,2023-03-12,1.6,Central
+27,Wendy Allen,wendy.allen@gmail.com,+12576775951,Mechanical Keyboard,Components,9,69.17,24.5,470.01,CANCELLED,2024-11-10,1.5,North
+28,Xavier Young,xavier.young@yahoo.com,+14170715377,Gaming Mouse,Audio,5,740.3,6.3,3468.31,CANCELLED,2023-07-28,2.0,North
+29,Carol White,carol.white@yahoo.com,+16988956607,Tablet Pro,Peripherals,5,158.01,10.0,711.04,PENDING,2024-10-14,2.8,West
+30,Rachel Thompson,rachel.thompson@gmail.com,,Laptop Pro 15,Phones,2,2365.37,20.7,3751.48,PENDING,2024-07-12,3.3,South
+31,Nathan Harris,nathan.harris@outlook.com,+14929454134,Wireless Headphones,Laptops,5,943.4,28.0,3396.24,COMPLETED,2024-01-02,3.7,East
+32,Yara King,yara.king@outlook.com,+15785653776,Gaming Mouse,Peripherals,10,1886.22,27.8,13618.51,PENDING,2023-06-16,1.1,East
+33,Zach Wright,zach.wright@gmail.com,+15687629943,Graphics Card RTX,Peripherals,-4,703.67,23.6,2150.42,COMPLETED,2024-01-27,1.9,West
+34,Leo Jackson,leo.jackson@gmail.com,+13198832728,Mechanical Keyboard,Monitors,4,107.98,5.8,406.87,CANCELLED,2023-10-13,3.6,West
+35,Victor Hall,victor.hall@devhub.net,+13140169349,RAM 16GB,Tablets,6,2351.13,3.5,13613.04,CANCELLED,2023-07-02,1.4,West
+36,Leo Jackson,leo.jackson@outlook.com,+13094024844,Bluetooth Speaker,Storage,7,1535.21,15.3,9102.26,REFUNDED,2024-08-13,3.8,North
+37,Quinn Anderson,quinn.anderson@yahoo.com,+19144194790,Graphics Card RTX,Tablets,4,942.34,2.1,3690.2,CANCELLED,2024-09-30,1.5,East
+38,Quinn Anderson,quinn.anderson@techcorp.io,+19150817441,Mechanical Keyboard,Peripherals,6,1035.88,8.9,5662.12,PENDING,2023-07-16,2.5,South
+39,Tina Clark,tina.clark@techcorp.io,+19669775771,Smart Watch,Accessories,7,1392.45,0.0,9747.15,CANCELLED,2023-08-04,3.4,East
+40,Olivia Martin,olivia.martin@gmail.com,+17513820624,SSD 1TB,Wearables,4,1302.38,23.8,3969.65,PENDING,2024-11-05,3.7,Central
+41,Karen Moore,karen.moore@outlook.com,+16225973028,Smartphone X12,Monitors,5,600.37,6.0,2821.74,COMPLETED,2023-02-17,3.4,North
+42,,olivia.martin@outlook.com,+19112714985,Webcam HD,Components,4,1809.95,11.5,6407.22,REFUNDED,2023-09-07,1.0,North
+43,Yara King,yara.king@devhub.net,+17365265734,Webcam HD,Monitors,3,2020.07,20.9,4793.63,REFUNDED,2023-02-21,4.4,West
+44,Eva Martinez,eva.martinez@devhub.net,+18127804892,External HDD,Wearables,9,2470.34,17.9,18253.34,REFUNDED,2024-09-19,4.6,West
+45,Clara Baker,clara.baker@techcorp.io,+14691864041,Wireless Headphones,Wearables,8,685.02,7.4,5074.63,CANCELLED,2024-06-17,7.8,North
+46,Wendy Allen,wendy.allen@outlook.com,+12993260504,Mechanical Keyboard,Monitors,5,872.83,26.8,3194.56,COMPLETED,2023-05-22,3.8,South
+47,Carol White,carol.white@techcorp.io,+18803569270,Webcam HD,Peripherals,6,1379.4,12.5,7241.85,PENDING,2024-03-06,3.8,Central
+48,Mia Thomas,mia.thomas@devhub.net,+19730374915,SSD 1TB,Laptops,6,781.6,11.7,4140.92,REFUNDED,2024-07-05,4.6,West
+49,Henry Wilson,henry.wilson@techcorp.io,+15949401194,Mechanical Keyboard,Peripherals,8,121.11,10.1,871.02,REFUNDED,2023-06-19,4.9,Central
+50,Alice Johnson,alice.johnson@techcorp.io,+12780520225,Graphics Card RTX,Peripherals,10,N/A,0.8,14212.98,REFUNDED,2023-05-19,2.0,East
+51,Grace Kim,grace.kim@gmail.com,+14019952485,SSD 1TB,Storage,6,1915.01,11.4,10180.19,REFUNDED,2023-09-16,4.0,North
+52,Leo Jackson,leo.jackson@devhub.net,+12654477195,4K Monitor,Phones,1,1897.87,28.5,1356.98,PENDING,2023-01-21,1.5,North
+53,Sam Robinson,sam.robinson@outlook.com,+16143444172,4K Monitor,Wearables,5,1928.9,5.0,9162.27,PROCESSING,2023-04-28,1.4,North
+54,Dan Adams,dan.adams@outlook.com,+16732630060,Mechanical Keyboard,Components,7,1021.8,21.5,5614.79,COMPLETED,2024-08-29,4.1,Central
+55,Zach Wright,zach.wright@devhub.net,,Smartphone X12,Components,1,900.65,12.9,784.47,CANCELLED,2023-03-12,1.1,West
+56,Anna Scott,anna.scott@outlook.com,+13870403050,SSD 1TB,Phones,7,2403.93,19.1,13613.46,REFUNDED,2024-12-25,3.9,East
+57,Tina Clark,tina.clark@yahoo.com,+15658080160,External HDD,Tablets,8,1188.94,24.8,7152.66,PROCESSING,2023-10-02,4.3,North
+58,Isabella Davis,isabella.davis@gmail.com,+18417997543,Graphics Card RTX,Wearables,4,1888.67,17.1,6262.83,REFUNDED,2023-12-11,2.3,West
+59,Grace Kim,grace.kim@gmail.com,+18513864445,USB-C Hub,Accessories,6,735.16,17.9,3621.4,CANCELLED,2024-07-23,1.8,South
+60,Xavier Young,not-an-email,+12399661102,Webcam HD,Wearables,9,1907.5,20.7,13613.83,REFUNDED,2024-04-03,1.9,South
+61,Jack Taylor,jack.taylor@yahoo.com,+17805981993,Tablet Pro,Components,6,1209.49,15.9,6103.09,REFUNDED,2024-07-17,2.8,East
+62,Isabella Davis,isabella.davis@outlook.com,+15172282824,4K Monitor,Phones,4,823.09,22.3,2558.16,PENDING,2023-07-16,2.1,Central
+63,Yara King,yara.king@yahoo.com,+12770695571,Gaming Mouse,Components,5,2452.25,25.0,9195.94,CANCELLED,2023-08-21,1.1,Central
+64,Eva Martinez,eva.martinez@techcorp.io,+16735577866,Mechanical Keyboard,Laptops,1,1405.73,20.9,1111.93,PENDING,2024-10-15,1.0,East
+65,Peter Garcia,peter.garcia@gmail.com,+13721025347,SSD 1TB,Wearables,6,501.69,1.5,9999.99,REFUNDED,2023-04-27,1.3,North
+66,Eva Martinez,eva.martinez@devhub.net,+18855312602,Wireless Headphones,Components,5,258.69,7.4,1197.73,PROCESSING,2024-03-02,3.5,Central
+67,Mia Thomas,mia.thomas@devhub.net,+16553654480,SSD 1TB,Wearables,5,2157.41,29.7,7583.3,CANCELLED,2024-08-05,4.8,North
+68,Yara King,yara.king@gmail.com,+12672302490,4K Monitor,Monitors,5,1668.05,4.7,7948.26,PENDING,2024-07-19,2.6,Central
+69,Peter Garcia,peter.garcia@outlook.com,+15968167735,Mechanical Keyboard,Laptops,4,755.86,8.5,2766.45,REFUNDED,2023-03-14,4.2,Central
+70,Victor Hall,victor.hall@outlook.com,+12306702926,External HDD,Monitors,7,331.2,6.7,2163.07,,2023-09-30,1.7,East
+71,Tina Clark,tina.clark@techcorp.io,+16048763624,Bluetooth Speaker,Components,5,1125.93,14.1,4835.87,CANCELLED,2024-12-17,3.0,West
+72,Olivia Martin,olivia.martin@gmail.com,+12392245997,Smartphone X12,Components,1,2229.09,22.0,1738.69,PROCESSING,2023-09-14,4.8,Central
+73,Sam Robinson,sam.robinson@techcorp.io,+15934502656,Laptop Pro 15,Accessories,10,148.57,22.7,1148.45,REFUNDED,2024-06-15,1.7,Central
+74,Nathan Harris,nathan.harris@gmail.com,+15683935600,Tablet Pro,Wearables,2,1201.53,12.3,2107.48,CANCELLED,2024-11-17,2.3,West
+75,Jack Taylor,jack.taylor@gmail.com,+18030885947,Tablet Pro,Peripherals,9,139.91,2.6,1226.45,CANCELLED,2023-11-28,3.1,North
+76,Victor Hall,victor.hall@techcorp.io,+14686110098,RAM 16GB,Tablets,8,1062.46,5.6,8023.7,CANCELLED,2024-09-29,4.0,South
+77,Isabella Davis,isabella.davis@devhub.net,+15433026356,Gaming Mouse,Audio,5,1123.38,20.9,4442.97,COMPLETED,2023-01-30,7.8,East
+78,Rachel Thompson,rachel.thompson@gmail.com,+19076859219,Laptop Pro 15,Tablets,7,278.36,29.8,1367.86,COMPLETED,2024-04-17,1.6,East
+79,Quinn Anderson,quinn.anderson@devhub.net,+12621232513,Bluetooth Speaker,Accessories,7,2095.07,29.4,10353.84,PENDING,2024-04-12,1.8,Central
+80,Quinn Anderson,quinn.anderson@devhub.net,,Bluetooth Speaker,Audio,2,726.81,23.7,1109.11,REFUNDED,2023-12-15,1.0,East
+81,Anna Scott,anna.scott@yahoo.com,+18665434552,Smart Watch,Components,8,2169.89,13.4,15033.0,REFUNDED,2023-12-20,3.2,West
+82,Dan Adams,dan.adams@yahoo.com,+15198484273,USB-C Hub,Monitors,4,1450.9,7.0,5397.35,REFUNDED,2023-02-14,3.8,West
+83,Mia Thomas,mia.thomas@gmail.com,+13891100776,Tablet Pro,Audio,8,2413.82,3.8,18576.76,PROCESSING,2023-12-06,3.1,West
+84,Alice Johnson,alice.johnson@yahoo.com,+17749076721,Bluetooth Speaker,Audio,7,2183.79,29.1,10838.15,COMPLETED,2024-04-25,3.8,North
+85,Ben Green,ben.green@gmail.com,+14651968205,USB-C Hub,Tablets,7,2387.64,18.8,13571.35,REFUNDED,2024-07-08,1.9,East
+86,Henry Wilson,henry.wilson@outlook.com,+14980712298,Bluetooth Speaker,Phones,7,2446.93,22.8,13223.21,COMPLETED,2024-03-30,4.6,North
+87,Karen Moore,karen.moore@techcorp.io,+18725609819,External HDD,Laptops,5,928.24,12.9,4042.49,PENDING,2024-06-27,4.2,South
+88,Frank Lee,frank.lee@outlook.com,+18275591099,Smartphone X12,Components,7,1568.29,7.2,10187.61,PROCESSING,2027-06-15,2.0,East
+89,Victor Hall,victor.hall@devhub.net,+17579825002,Laptop Pro 15,Wearables,5,1710.15,4.7,8148.86,REFUNDED,2023-12-20,4.8,East
+90,Olivia Martin,olivia.martin@techcorp.io,+14456389272,RAM 16GB,Accessories,4,2498.47,25.6,7435.45,COMPLETED,2023-08-31,3.3,East
+91,Alice Johnson,alice.johnson@techcorp.io,+19871983133,RAM 16GB,Peripherals,5,69.84,26.0,258.41,COMPLETED,2024-09-12,4.6,South
+92,Tina Clark,tina.clark@gmail.com,+14776011793,External HDD,Storage,4,1609.71,18.6,5241.22,PENDING,2024-10-05,2.2,West
+93,Bob Smith,bob.smith@outlook.com,+16862589297,Smart Watch,Storage,3,270.83,8.9,740.18,REFUNDED,2023-06-29,3.2,East
+94,Quinn Anderson,quinn.anderson@yahoo.com,+15454152476,Gaming Mouse,Accessories,3,679.58,24.7,1535.17,REFUNDED,2023-10-30,2.9,North
+95,Eva Martinez,eva.martinez@techcorp.io,+12059780189,External HDD,Monitors,7,2419.81,24.1,12856.45,CANCELLED,2023-04-03,3.1,West
+96,Leo Jackson,leo.jackson@outlook.com,+14024977737,Tablet Pro,Accessories,10,983.51,19.2,7946.76,CANCELLED,2023-04-21,3.5,Central
+97,Karen Moore,karen.moore@yahoo.com,+14788462200,Graphics Card RTX,Components,4,1636.75,19.1,5296.52,REFUNDED,2024-12-18,1.5,North
+98,Bob Smith,bob.smith@techcorp.io,+17888449627,Mechanical Keyboard,Wearables,2,288.12,26.6,422.96,PENDING,2024-02-02,4.8,Central
+99,Uma Lewis,uma.lewis@devhub.net,+16668366722,Smartphone X12,Laptops,5,649.99,4.2,3113.45,COMPLETED,2024-11-23,2.7,North
+100,Olivia Martin,olivia.martin@techcorp.io,+13184901787,4K Monitor,Storage,2,2453.27,11.0,4366.82,CANCELLED,2023-03-04,4.9,West
